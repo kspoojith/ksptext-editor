@@ -1,12 +1,3 @@
-The goal of this coding exam is to quickly get you off the ground with **Dynamic Styling Using Styled Components**.
-
-### Refer to the image below:
-
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/text-editor-md-output-v2.png" alt="text-editor-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-<br/>
 
 ### Design Files
 
@@ -125,6 +116,3 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
